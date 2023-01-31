@@ -17,6 +17,8 @@ usermod -aG docker ubuntu
 apt-get install vim git -y
 
 ## Extra packages install
+#Extra packages update
+
 apt install vim git -Y
 
 ## Extra packages
