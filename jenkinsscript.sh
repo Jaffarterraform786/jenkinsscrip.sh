@@ -15,6 +15,7 @@ systemctl start docker
 usermod -aG docker ubuntu
 
 ## Extra packages install
+#Extra packages update
 
 apt install vim git -Y
 
