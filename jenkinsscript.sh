@@ -13,7 +13,8 @@ apt-get install docker-ce docker-ce-cli containerd.io
 systemctl enable docker
 systemctl start docker
 usermod -aG docker ubuntu
-##Extra package
+
+##Extra packages installation
 apt-get install vim git -y
 
 ## Extra packages install
